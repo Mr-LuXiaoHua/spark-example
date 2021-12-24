@@ -14,6 +14,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <spark.version>3.2.0</spark.version>
         <scala.version>2.12</scala.version>
+        <mongo.spark.connector.version>3.0.1</mongo.spark.connector.version>
     </properties>
 
     <dependencies>
@@ -38,6 +39,15 @@
             <version>${spark.version}</version>
             <scope>provided</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.mongodb.spark</groupId>
+            <artifactId>mongo-spark-connector_${scala.version}</artifactId>
+            <version>${mongo.spark.connector.version}</version>
+        </dependency>
+
+
+
     </dependencies>
 
 
