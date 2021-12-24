@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e69457b1-97ce-45e4-8091-d20aef6c5ab9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/example/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/example/WordCount.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,11 @@
     <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Download\flink-test\spark-example" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
@@ -75,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640223924113</updated>
-      <workItem from="1640223927676" duration="5067000" />
+      <workItem from="1640223927676" duration="7342000" />
     </task>
     <servers />
   </component>
@@ -91,22 +96,22 @@
       <screen x="1920" y="0" width="1280" height="680" />
     </state>
     <state x="2016" y="0" width="831" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1640229714913" />
-    <state width="1237" height="119" key="GridCell.Tab.0.bottom" timestamp="1640230271747">
+    <state width="1237" height="12" key="GridCell.Tab.0.bottom" timestamp="1640254843033">
       <screen x="1920" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="119" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1640230271747" />
-    <state width="1237" height="119" key="GridCell.Tab.0.center" timestamp="1640230271746">
+    <state width="1237" height="12" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1640254843033" />
+    <state width="1237" height="12" key="GridCell.Tab.0.center" timestamp="1640254843032">
       <screen x="1920" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="119" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1640230271746" />
-    <state width="1237" height="119" key="GridCell.Tab.0.left" timestamp="1640230271746">
+    <state width="1237" height="12" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1640254843032" />
+    <state width="1237" height="12" key="GridCell.Tab.0.left" timestamp="1640254843031">
       <screen x="1920" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="119" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1640230271746" />
-    <state width="1237" height="119" key="GridCell.Tab.0.right" timestamp="1640230271747">
+    <state width="1237" height="12" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1640254843031" />
+    <state width="1237" height="12" key="GridCell.Tab.0.right" timestamp="1640254843033">
       <screen x="1920" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="119" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1640230271747" />
+    <state width="1237" height="12" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1640254843033" />
     <state x="2061" y="0" key="SettingsEditor" timestamp="1640227489562">
       <screen x="1920" y="0" width="1280" height="680" />
     </state>

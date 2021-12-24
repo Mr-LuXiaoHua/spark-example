@@ -7,7 +7,7 @@ object WordCount {
   def main(args: Array[String]): Unit = {
     val spark = SparkSession.builder()
                             .appName("WordCount")
-                            .master("local[*]")
+                            .master("local[*]") //本地开发模式
                             .getOrCreate()
 
     import spark.implicits._
@@ -17,5 +17,7 @@ object WordCount {
     wordCount.show()
 
     spark.close()
+
   }
+
 }
